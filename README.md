@@ -1,6 +1,6 @@
-# Threes.web
+# threes.web
 
-**Threes.web** is a polished, browser-based tribute to the classic indie game *Threes!*. Developed as a personal project, it aims to capture the strategic depth and tactile feel of the original masterpiece while utilizing modern web technologies.
+**threes.web** is a polished, browser-based tribute to the classic indie game *Threes!*. Developed as a personal project, it aims to capture the strategic depth and tactile feel of the original masterpiece while utilizing modern web technologies.
 
 ## 🕹️ Live Demo
 Coming soon.
@@ -20,7 +20,7 @@ Coming soon.
 - **Font Awesome:** Social integration.
 
 ## 📜 Legal & Credits
-**Threes.web** is a fan-made project created for educational purposes. 
+**threes.web** is a fan-made project created for educational purposes. 
 
 - **Concept & Inspiration:** This game is inspired by the original masterpiece **[Threes!](https://asherv.com/threes/)** created by **Sirvo** (Asher Vollmer, Greg Wohlwend, and Jimmy Hinson).
 - **Developer:** [Brian Hough](https://mastodon.social/@brianhough)
