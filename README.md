@@ -3,7 +3,7 @@
 **Threes.web** is a polished, browser-based tribute to the classic indie game *Threes!*. Developed as a personal project, it aims to capture the strategic depth and tactile feel of the original masterpiece while utilizing modern web technologies.
 
 ## 🕹️ Live Demo
-[Link to your GitHub Pages or hosted site]
+Coming soon.
 
 ## ✨ Features
 - **Authentic Mechanics:** Implements the "one-step" sliding movement and specific merging rules (1+2=3, 3+3=6, etc.).
