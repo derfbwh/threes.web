@@ -11,7 +11,6 @@ Coming soon.
 - **Late-Game Bonus Tiles:** Includes the "+" indicator and high-value bonus tile spawns once the board reaches elite levels.
 - **Next Tile Indicator:** A visual preview of the upcoming card to allow for forward-thinking strategy.
 - **Dark Mode:** A persistent, eye-friendly theme that saves to local storage.
-- **Responsive & Tactile:** Optimized for both desktop (Arrow Keys) and mobile (Swipe Gestures) with subtle "juicy" animations.
 
 ## 🛠️ Technology Stack
 - **HTML5:** Semantic structure.
