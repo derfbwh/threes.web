@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <title>Threes.web</title> <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+        <div class="header">
+            <div class="title-container">
+                <h1>Threes.web</h1> <div class="next-indicator">
+                    Next: <div id="next-tile" class="mini-tile"></div>
+                </div>
+            </div>
+                        <div class="scores">
+                <div class="score-container">Score<br><span id="score">0</span></div>
+                <div class="score-container best-container">Best<br><span id="best-score">0</span></div>
+            </div>
+        </div>
+        <div class="grid" id="grid">
+            <div class="grid-background" id="grid-background"></div>
+            <div class="tile-container" id="tile-container"></div>
+            
+            <div class="game-over" id="game-over">
+                <h2>Out of Moves!</h2>
+                <p>Final Score: <span id="final-score">0</span></p>
+                <button onclick="restartGame()">Play Again</button>
+            </div>
+        </div>       
+<p class="instructions">Use <strong>Arrow Keys</strong> to move.</p>
+        
+        <button id="theme-toggle" class="theme-btn">🌙 Dark Mode</button>
+        
+<div class="credits">
+            <p>Developed by Brian Hough on <a href="https://mastodon.social/@brianhough" target="_blank" rel="noopener noreferrer">
+                <i class="fa-brands fa-mastodon"></i>Mastodon</a> & 
+               <a href="https://bsky.app/profile/brianhough.com" target="_blank" rel="noopener noreferrer" class="bsky-link">
+            </svg> 
+            Bluesky
+        </a></p>
+            <p>Inspired by the original masterpiece <strong><a href="https://asherv.com/threes/" target="_blank" rel="noopener noreferrer">Threes!</a></strong> by Sirvo.</p>
+        </div>
+                    </div>
+    <script src="script.js"></script>
+</body>
+</html>
