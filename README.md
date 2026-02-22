@@ -3,7 +3,7 @@
 **threes.web** is a polished, browser-based tribute to the classic indie game *Threes!*. Developed as a personal project, it aims to capture the strategic depth and tactile feel of the original masterpiece while utilizing modern web technologies.
 
 ## 🕹️ Live Demo
-Coming soon.
+Play a live demo at https://brianhough.com/threes-web.
 
 ## ✨ Features
 - **Authentic Mechanics:** Implements the "one-step" sliding movement and specific merging rules (1+2=3, 3+3=6, etc.).
